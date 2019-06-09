@@ -1,0 +1,23 @@
+.App {
+  text-align: center;
+}
+
+.Contenedor{
+  background-color:darkred;
+}
+
+.ContenidoPan{
+  background-color:cyan;
+}
+
+
+.DetallePan{
+  background-color:crimson(85, 85, 216);
+}
+
+.ListadoPan{
+  background-color: cyan;
+  font-size:30px;
+	color:crimson;
+	font-family: 'Times New Roman', Times, serif
+}
